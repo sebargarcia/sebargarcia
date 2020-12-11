@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Sebastián García, a Developer 🚀 from Argentina.
+## Hi, I'm Sebastián García, 😃 Software Engineer. Full Stack Developer ⚡️
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sebargarcia)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sebargarcia@gmail.com)
