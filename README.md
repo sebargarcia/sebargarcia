@@ -7,8 +7,7 @@
 &nbsp;
 ## My GitHub Stats
 
-[![sebargarcia github stats](https://github-readme-stats.vercel.app/api?username=sebargarcia&count_private=true&theme=dracula&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebargarcia&count_private=true&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![sebargarcia github stats](https://github-readme-stats.vercel.app/api?username=sebargarcia&count_private=true&theme=dracula&show_icons=true&hide=stars)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebargarcia&count_private=true&theme=dracula&show_icons=true&layout=compact)]
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/sebargarcia/ismlhbb.svg?cache=remove)](#)
